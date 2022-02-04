@@ -16,6 +16,6 @@ Capstone - 2
 **Project strategy:** Use regression analysis to predict heart failure in a patient. Compare Linear and Random Forest regressors. Employ other options if the models developed using the said regressors do not exceed the minimum accuracy requirement. Maximize accuracy by tuning hyperparameters.
 
 **Deliverables:**
-A Github repository containing work performed during each step of the project
-A detailed project report
-A presentation summarizing the work done
+1. A Github repository containing work performed during each step of the project
+2. A detailed project report
+3. A presentation summarizing the work done
